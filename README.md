@@ -1,4 +1,4 @@
-- I’m John Gardiner (@JohnGoldenGardiner), a physics PhD interested in quantum computation.
+- I’m John Gardiner (@JohnGoldenGardiner), a physics PhD interested in quantum computation and physics-inspired algorithms.
 
 <!---
 JohnGoldenGardiner/JohnGoldenGardiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
